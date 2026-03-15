@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @rathour04 
-- 🌱 I’m currently learning Data Analytics
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: good listener 
+Hi, I'm Dhananjay Singh 👋
 
-<!---
-rathour04/rathour04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Tech CSE student at Netaji Subhas Institute of Technology (2026)  
+📊 Aspiring Data Analyst skilled in Python, SQL, and Power BI  
+📈 Passionate about turning raw data into actionable insights  
+
+🔧 Skills:
+• Python | SQL | Power BI | Excel  
+• Data Cleaning | EDA | ETL Pipelines | Data Visualization  
+• Matplotlib | Seaborn | Git | Jupyter Notebook  
+
+🚀 Currently building projects in:
+• Data Analytics  
+• Business Intelligence Dashboards  
+• Machine Learning Basics  
